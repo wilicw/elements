@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>化學藏書閣 Chemical Library</title>
+  <subtitle>化學元素完全解析</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://elements.wilicw.tech/"/>
+  <updated>2017-05-28T03:18:44.128Z</updated>
+  <id>https://elements.wilicw.tech/</id>
+  
+  <author>
+    <name>William Chang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>速度越快，時間越慢</title>
+    <link href="https://elements.wilicw.tech/speed-time/"/>
+    <id>https://elements.wilicw.tech/speed-time/</id>
+    <published>2017-05-27T15:23:23.000Z</published>
+    <updated>2017-05-28T03:18:44.128Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/speed-time.jpg" alt="時間越快，速度越慢"></p><hr><p>你知道嗎，當你速度越快，時間就越慢，而且空間還會因此變小，為什麼呢？讓我們一起來看看！</p><hr><h4 id="時間、空間、速度"><a href="#時間、空間、速度" class="headerlink" title="時間、空間、速度"></a>時間、空間、速度</h4><p>在愛因斯坦的相對論中，用 E=mc<sup>2</sup> 證明了<a href="emc2">光速是最快的速度</a>，而根據裡面的理論，速度的快慢會影響時間跟空間，讓我們看看其中奧妙</p><hr><h4 id="怎麼說？"><a href="#怎麼說？" class="headerlink" title="怎麼說？"></a>怎麼說？</h4><p>我們在說明這個現象前，要先提到一個基本原則：</p><ul><li>光速最快，速度為 <code>c</code></li></ul><p>現在，有兩個人， <code>A</code> 在靜止的平面上， <code>B</code> 在一艘太空船上，兩個人都擁有一個一樣規格的光鐘(假設真的有這個東西)</p><p><img src="../images/speed-time/clock.jpg" alt="光鐘"></p><p><code>B</code> 的太空船以極快的速度飛越 <code>A</code> 的上方<br><code>A</code> 會看到太空船上的光鐘，變成等腰三角形的形狀<del>(懶得畫圖，自行想像)</del>，那當然，光鐘裡的光速度不變，等腰三角形的 <code>兩腰</code> 長，當然會比 <code>高</code> 還長，所以：</p><blockquote><p>L<sub>2</sub> &gt; L</p><p><code>A</code> 的時間是 2L/c ，但 <code>A</code> 看到 <code>B</code> 的光鐘時間為 2L<sub>2</sub>/c ，所以 <code>A</code> 覺得 <code>B</code> 的時間比他慢</p></blockquote><p>這個現象稱為 <strong>時間膨脹</strong></p><hr><h4 id="影響"><a href="#影響" class="headerlink" title="影響"></a>影響</h4><p>當然，這個誤差，對你我都幾乎沒影響，但對科學家來說，在運送原子鐘時，就要考量到這個誤差，這個膨脹還會造成 <strong>空間收縮</strong> ，因為：</p><blockquote><p>s=vt</p><p>t 會因為時間膨脹而影響，速度越快，t 越小，s(距離)當然會縮小</p></blockquote><p>依照上面的公式運算，時速72公里的火車，約要開1400萬年，才會與地面的時間誤差一秒<del>(是有差喔…)</del></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/speed-time.jpg&quot; alt=&quot;時間越快，速度越慢&quot;&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;你知道嗎，當你速度越快，時間就越慢，而且空間還會因此變小，為什麼呢？讓我們一起來看看！&lt;/p&gt;&lt;hr&gt;&lt;h4 id=&quot;時間、空間、速度&quot;&gt;&lt;a hr
+    
+    </summary>
+    
+    
+      <category term="時間" scheme="https://elements.wilicw.tech/tags/%E6%99%82%E9%96%93/"/>
+    
+      <category term="物理" scheme="https://elements.wilicw.tech/tags/%E7%89%A9%E7%90%86/"/>
+    
+      <category term="相對論" scheme="https://elements.wilicw.tech/tags/%E7%9B%B8%E5%B0%8D%E8%AB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>跳進岩漿會發生什麼事情？</title>
+    <link href="https://elements.wilicw.tech/jump-into-lava/"/>
+    <id>https://elements.wilicw.tech/jump-into-lava/</id>
+    <published>2017-05-14T14:02:22.000Z</published>
+    <updated>2017-05-14T12:10:33.353Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/jump-into-lava.jpg" alt="岩漿"></p><p>跳進岩漿會是什麼感覺(沒人想知道…，很多人可能為以為，人體會慢慢下陷，然後被燒掉，但是假如真的跳下去，可能會引起爆炸</p><hr><h4 id="人體組成"><a href="#人體組成" class="headerlink" title="人體組成"></a>人體組成</h4><p>跳進岩漿後，人體會直接與高熱的岩漿接觸，這時人體的組成就很重要，其中成年人有 50% ~ 70% 的水分。</p><hr><h4 id="為什麼會爆炸？"><a href="#為什麼會爆炸？" class="headerlink" title="為什麼會爆炸？"></a>為什麼會爆炸？</h4><p>水在蒸發時，體積會瞬間暴增，體內的細胞，會把水蒸氣困住，在壓力極大，細胞撐不住，會發生爆炸性的結果，這種不能說成爆炸，爆炸是一種氧化的過程，而這類型的效果就跟爆炸一樣。</p><blockquote><p>這裡的原理類似把生雞蛋放微波爐一樣</p></blockquote><hr><h4 id="相關影片"><a href="#相關影片" class="headerlink" title="相關影片"></a>相關影片</h4><p>這部影片中，他把一袋「有機物」，丟進岩漿裡面，發生的反應也跟上述相同，發生了爆炸</p><iframe width="560" height="315" src="https://www.youtube.com/embed/kq7DDk8eLs8" frameborder="0" allowfullscreen></iframe><br><br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/lDxOhfiFsuc" frameborder="0" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/jump-into-lava.jpg&quot; alt=&quot;岩漿&quot;&gt;&lt;/p&gt;&lt;p&gt;跳進岩漿會是什麼感覺(沒人想知道…，很多人可能為以為，人體會慢慢下陷，然後被燒掉，但是假如真的跳下去，可能會引起爆炸&lt;/p&gt;&lt;hr&gt;&lt;h4 id=&quot;人體組成&quot;&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="岩石" scheme="https://elements.wilicw.tech/tags/%E5%B2%A9%E7%9F%B3/"/>
+    
+      <category term="人體" scheme="https://elements.wilicw.tech/tags/%E4%BA%BA%E9%AB%94/"/>
+    
+      <category term="熱" scheme="https://elements.wilicw.tech/tags/%E7%86%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>E=mc2 其實不完整</title>
+    <link href="https://elements.wilicw.tech/emc2/"/>
+    <id>https://elements.wilicw.tech/emc2/</id>
+    <published>2017-05-05T14:51:11.000Z</published>
+    <updated>2017-05-27T12:17:03.751Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/emc2.jpg" alt="e=mc2其實不完整"></p><h4 id="公式解說"><a href="#公式解說" class="headerlink" title="公式解說"></a>公式解說</h4><blockquote><p>E=mc<sup>2</sup></p></blockquote><p>這公式是指說，當物體的<strong>質量</strong>，完全轉換成<strong>能量</strong>， <code>E</code> 代表能量， <code>m</code> 是物體的質量， <code>c</code> 是光速。這是只針對靜態物體的能量質量轉換，動態的有另一個公式：</p><blockquote><p>E<sup>2</sup> = (pc)<sup>2</sup> + (mc<sup>2</sup>)<sup>2</sup></p></blockquote><p><code>p</code> 是指運動中物體的能量，乘上光速的平方</p><p>這公式指出<strong>質量守恆</strong>是有問題的，實際也在原子彈發明之後證實</p><h4 id="實際計算"><a href="#實際計算" class="headerlink" title="實際計算"></a>實際計算</h4><p>E( J )=m( Kg ) x c<sup>2</sup>( m/s )</p><p>c為光速=299792458(m/s)</p><blockquote><p>假設有1kg的物體，總共可以換成<br>1 Kg x (299792458)<sup>2</sup> =89875517873681764 J</p></blockquote><p>上面計算的都是靜態物體，但是當他換成動態時，也間接證明的任何有質量的物體都不可能達到光速：</p><p>m=0時，E<sup>2</sup>=(pc)<sup>2</sup>，像光沒有質量，所以才能達到光速<del>(廢話)</del></p><p>當 m=0.00~(很多0)~01，E<sup>2</sup>≠(pc)<sup>2</sup>，就代表這個物體不能移動到光速，所以 299792.458(km/s) 可能是宇宙中最極限的速度了</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/emc2.jpg&quot; alt=&quot;e=mc2其實不完整&quot;&gt;&lt;/p&gt;&lt;h4 id=&quot;公式解說&quot;&gt;&lt;a href=&quot;#公式解說&quot; class=&quot;headerlink&quot; title=&quot;公式解說&quot;&gt;&lt;/a&gt;公式解說&lt;/h4&gt;&lt;blockquote
+    
+    </summary>
+    
+    
+      <category term="愛因斯坦" scheme="https://elements.wilicw.tech/tags/%E6%84%9B%E5%9B%A0%E6%96%AF%E5%9D%A6/"/>
+    
+      <category term="質量" scheme="https://elements.wilicw.tech/tags/%E8%B3%AA%E9%87%8F/"/>
+    
+      <category term="能量" scheme="https://elements.wilicw.tech/tags/%E8%83%BD%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人造雨，用什麼造？</title>
+    <link href="https://elements.wilicw.tech/cloud-seeding/"/>
+    <id>https://elements.wilicw.tech/cloud-seeding/</id>
+    <published>2017-05-02T13:13:43.000Z</published>
+    <updated>2017-05-02T13:05:04.443Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/cloud-seeding.jpg" alt="人造雨"></p><blockquote><p>今年入春後降雨偏少，水利署今天把握鋒面接近的機會，寶二及石門水庫在上午8時30分及8時40分，已施作人工增雨作業，但原本也要在9時施作的曾文水庫，因雲層不利作業而取消。<br>水利署長賴建信表示，水利署已與氣象局成立平台，密切聯繫，隨時掌握天候狀況，不放棄任何機會，增加水庫集水區上游入流量，以延長水庫供水時程，降低限水對民眾的影響。(轉自2017年02月22日<a href="http://www.appledaily.com.tw/realtimenews/article/new/20170222/1061518/" target="_blank" rel="external">蘋果日報</a>)</p></blockquote><hr><h4 id="人造雨是麼？"><a href="#人造雨是麼？" class="headerlink" title="人造雨是麼？"></a>人造雨是麼？</h4><p><strong>人造雨</strong> 又稱 <strong>人工增雨</strong> ( rainmaking 、 cloud seeding ) ，是指在濕度不足以降雨的狀況下，透過化學催化水滴凝結，達到降雨的目的</p><hr><h4 id="人造雨原理"><a href="#人造雨原理" class="headerlink" title="人造雨原理"></a>人造雨原理</h4><p>各位都應該知道，下雨是雲層中的小水滴碰撞結合成大雨滴，下降形成<strong>雨</strong>，當雲內水滴太小或缺乏冰晶而無法降雨時，我們利用人工方法去產生冰晶或使小水滴長大，促使其產生降雨現象，稱為人造雨。</p><ul><li><p>在雲層灑水<br>讓雲層中水滴更快結合</p></li><li><p>吸濕性藥粉與液體<br>透過<code>NaCl</code>等粉末，強制結合雨滴，這些藥劑通常無害</p></li><li><p>冷雲造雲<br>使用<code>乾冰</code>、<code>碘化銀</code>，<code>乾冰</code>讓雲層溫度下降，促使水滴結成冰晶，<code>碘化銀</code>是非常好的冰晶核</p></li></ul><hr><h4 id="人造雨地點"><a href="#人造雨地點" class="headerlink" title="人造雨地點"></a>人造雨地點</h4><ul><li><p>地面<br>在地面燃燒<code>碘化銀</code>溶液，使碘化銀分子飄到雲層中</p></li><li><p>空中<br>在飛機上撒<code>水</code>、<code>乾冰</code>、<code>碘化銀</code>，效率較高，但成本也相對高</p></li></ul><hr><h4 id="人造雨成效"><a href="#人造雨成效" class="headerlink" title="人造雨成效"></a>人造雨成效</h4><ul><li><p>地面<br>增加10%降雨</p></li><li><p>空中<br>增加20%降雨</p></li></ul><hr><h4 id="人造雨其他用途"><a href="#人造雨其他用途" class="headerlink" title="人造雨其他用途"></a>人造雨其他用途</h4><p>人造雨除增加水庫的水位，還可以拿來撲滅火災</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/cloud-seeding.jpg&quot; alt=&quot;人造雨&quot;&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;今年入春後降雨偏少，水利署今天把握鋒面接近的機會，寶二及石門水庫在上午8時30分及8時40分，已施作人工增雨作業，但原本也要在9時施作的曾
+    
+    </summary>
+    
+    
+      <category term="水" scheme="https://elements.wilicw.tech/tags/%E6%B0%B4/"/>
+    
+      <category term="人工" scheme="https://elements.wilicw.tech/tags/%E4%BA%BA%E5%B7%A5/"/>
+    
+      <category term="下雨" scheme="https://elements.wilicw.tech/tags/%E4%B8%8B%E9%9B%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>伏打電池堆原理解析</title>
+    <link href="https://elements.wilicw.tech/voltaic-pile/"/>
+    <id>https://elements.wilicw.tech/voltaic-pile/</id>
+    <published>2017-05-01T11:00:23.000Z</published>
+    <updated>2017-05-02T11:49:43.932Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/voltaic-pile.jpg" alt="伏打電池堆原理解析"></p><p>各位應該看過一種實驗，用兩片金屬就能有微弱的電力。其實那兩塊金屬，一個是銅片，另一個是鋅片，中間夾著沾有鹽水的濕布。</p><hr><h4 id="原理解析"><a href="#原理解析" class="headerlink" title="原理解析"></a>原理解析</h4><p>伏打電池堆是伽凡尼電池的延伸版本(?，兩塊金屬中間的溶液是電解質，當把這兩個金屬中間放電解質溶液時，其中一個金屬會放出電子，另一個金屬吸收電子，中間透過導線連接，就會產生電流。</p><p>反應式：</p><blockquote><p>Cu<sup>2+</sup> + Zn ⇋ Cu + Zn<sup>2+</sup><br>+0.34V-(-0.76V) = 1.10V</p></blockquote><hr><h4 id="金屬腐蝕"><a href="#金屬腐蝕" class="headerlink" title="金屬腐蝕"></a>金屬腐蝕</h4><p>當兩種金屬使用此方式連結，並同時與電解質接觸時，會形成伽凡尼電池，因電化學作用造成的金屬腐蝕現象。</p><hr><h4 id="有趣應用"><a href="#有趣應用" class="headerlink" title="有趣應用"></a>有趣應用</h4><p>電池 DIY : 檸檬電池</p><blockquote><p>材料：檸檬 、 鍍鋅鐵釘 、 銅板</p></blockquote><p>YouTube 示範影片：<a href="https://www.youtube.com/watch?v=AY9qcDCFeVI" target="_blank" rel="external">https://www.youtube.com/watch?v=AY9qcDCFeVI</a></p><p>我們可以用含銅的硬幣，加上鐵釘去做出檸檬電池，其中銅板是正極，而鐵釘因為表面通常會 鍍鋅以防止生鏽，再加上檸檬含的電解質，所以就可以組合成標準的「銅-鋅、伽凡尼」電池。</p><p>「銅-鋅反應」釋放的電壓大約是 1.1V，而點亮一顆 LED 需要 3V 以上的電壓，所以必須要用三顆以上的檸檬電池 串連，就可以點亮 LED 燈了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/voltaic-pile.jpg&quot; alt=&quot;伏打電池堆原理解析&quot;&gt;&lt;/p&gt;&lt;p&gt;各位應該看過一種實驗，用兩片金屬就能有微弱的電力。其實那兩塊金屬，一個是銅片，另一個是鋅片，中間夾著沾有鹽水的濕布。&lt;/p&gt;&lt;hr&gt;&lt;h4 id=&quot;原理
+    
+    </summary>
+    
+    
+      <category term="化學" scheme="https://elements.wilicw.tech/tags/%E5%8C%96%E5%AD%B8/"/>
+    
+      <category term="金屬" scheme="https://elements.wilicw.tech/tags/%E9%87%91%E5%B1%AC/"/>
+    
+      <category term="電池" scheme="https://elements.wilicw.tech/tags/%E9%9B%BB%E6%B1%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>最輕的元素 - 氫</title>
+    <link href="https://elements.wilicw.tech/H/"/>
+    <id>https://elements.wilicw.tech/H/</id>
+    <published>2017-04-30T05:50:15.000Z</published>
+    <updated>2017-04-30T11:57:18.624Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/H.jpg" alt="宇宙中最多的元素 - 氫"></p><p>元素週期表第一行的的第一個，就是<strong>氫</strong><br>他是最輕最小的元素，符號為H，原子序為1。氫的原子量為1.00794</p><p>氫在宇宙中是最常見的物質，在常溫常壓，氫氣為雙原子分子，也是水(H<sub>2</sub>O)的組成成分</p><hr><h4 id="簡介"><a href="#簡介" class="headerlink" title="簡介"></a>簡介</h4><ul><li>類別：非金屬</li><li>無色無味</li><li>常溫為氣體</li><li>攝氏0度時密度 0.08988 g/L</li><li>熔點(攝氏) -259.16</li><li>沸點(攝氏) -252.879</li></ul><hr><h4 id="氫的歷史"><a href="#氫的歷史" class="headerlink" title="氫的歷史"></a>氫的歷史</h4><p>1671 年 波以耳發現<code>鐵</code>+<code>酸</code>會產生氣體 – <code>氫氣</code></p><p>1766 年 亨利·卡文迪什發現一樣的結果，並命名這個氣體為 <code>易燃氣</code></p><p>1783 年 拉瓦節命名為 <code>Hydrogen</code>，意思為希臘文中的<code>水</code>和<code>創造者</code></p><hr><h4 id="氫氣的製作"><a href="#氫氣的製作" class="headerlink" title="氫氣的製作"></a>氫氣的製作</h4><ul><li><p>金屬加酸<br>利用活性較大的金屬，加入酸中</p><blockquote><p>Zn + 2H → Zn<sub>2</sub> + H<sub>2</sub></p></blockquote></li></ul><ul><li><p>對水電解<br>當電流通過液態水時，氧氣會聚集到正極，氫氣累積到負極</p><blockquote><p>2H<sub>2</sub>O → 2H<sub>2</sub> + O<sub>2</sub></p></blockquote></li><li><p>蒸氣重整<br>對天然氣進行蒸汽重整來製作氫氣，在700~1100 °C，水蒸汽和甲烷會發生反應，產生一氧化碳和氫氣</p><blockquote><p>CH<sub>4</sub> + H<sub>2</sub>O → CO + 3H<sub>2</sub></p></blockquote></li></ul><hr><h4 id="氫氣特性"><a href="#氫氣特性" class="headerlink" title="氫氣特性"></a>氫氣特性</h4><ul><li><p>易燃</p></li><li><p>可和所有可氧化元素反應</p></li></ul><hr><h4 id="同位素"><a href="#同位素" class="headerlink" title="同位素"></a>同位素</h4><p>天然同位素：</p><ul><li><sup>1</sup>H 、D (氕 讀音：ㄆㄧㄝ)</li><li><sup>2</sup>H 、T (氘 讀音：ㄉㄠ)</li><li><sup>3</sup>H (氚 讀音：ㄔㄨㄢ)</li></ul><p>人造同位素：</p><ul><li><sup>4</sup>H</li><li><sup>5</sup>H</li><li><sup>6</sup>H</li><li><sup>7</sup>H</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/H.jpg&quot; alt=&quot;宇宙中最多的元素 - 氫&quot;&gt;&lt;/p&gt;&lt;p&gt;元素週期表第一行的的第一個，就是&lt;strong&gt;氫&lt;/strong&gt;&lt;br&gt;他是最輕最小的元素，符號為H，原子序為1。氫的原子量為1.00794&lt;/p&gt;&lt;p&gt;氫在宇宙中
+    
+    </summary>
+    
+    
+      <category term="元素介紹" scheme="https://elements.wilicw.tech/tags/%E5%85%83%E7%B4%A0%E4%BB%8B%E7%B4%B9/"/>
+    
+      <category term="元素" scheme="https://elements.wilicw.tech/tags/%E5%85%83%E7%B4%A0/"/>
+    
+      <category term="氣體" scheme="https://elements.wilicw.tech/tags/%E6%B0%A3%E9%AB%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>元素中文怎麼命名？</title>
+    <link href="https://elements.wilicw.tech/elements-chinese-name/"/>
+    <id>https://elements.wilicw.tech/elements-chinese-name/</id>
+    <published>2017-04-29T09:24:06.000Z</published>
+    <updated>2017-04-30T12:38:14.408Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/elements-chinese-name.jpg" alt="元素中文怎麼命名？"></p><p>中文元素命名規則由 <strong>徐壽</strong> (1818 ~ 1884) 制定</p><h4 id="元素命名基本原則"><a href="#元素命名基本原則" class="headerlink" title="元素命名基本原則"></a>元素命名基本原則</h4><ul><li>一個中文漢字</li></ul><h4 id="元素命名時的狀態"><a href="#元素命名時的狀態" class="headerlink" title="元素命名時的狀態"></a>元素命名時的狀態</h4><ul><li>常溫為攝氏 25 度</li></ul><h4 id="元素部首的原則"><a href="#元素部首的原則" class="headerlink" title="元素部首的原則"></a>元素部首的原則</h4><ul><li>固態<strong>金屬</strong>為 <code>金</code> 字邊</li><li>固態<strong>非金屬</strong>為 <code>石</code> 字邊</li><li>氣態<strong>非金屬</strong>為 <code>气</code> 字邊</li><li>液態元素為 <code>水</code> (左邊三點水) 字邊</li></ul><h4 id="命名例外"><a href="#命名例外" class="headerlink" title="命名例外"></a>命名例外</h4><p>這些元素中文是古代已知有中文名稱的字，可直接使用<br>例如： <code>金</code>、<code>銀</code>、<code>銅</code>、<code>鐵</code>、<code>錫</code>、<code>硫</code>、<code>碳</code>、<code>硼</code>、<code>汞</code>、<code>鉛</code></p><h4 id="中文新字"><a href="#中文新字" class="headerlink" title="中文新字"></a>中文新字</h4><p>若命名時中文無此字，則以一個<strong>部首</strong>和一個<strong>偏旁</strong>造字，<strong>偏旁</strong>為讀音</p><p>以下有兩種原則</p><h5 id="音譯"><a href="#音譯" class="headerlink" title="音譯"></a>音譯</h5><p>偏旁為國外讀音的第一個音節<br>例如：</p><p>Na（Natrium）＝金＋內→鈉<br>I（Iodine）＝石＋典→碘 (碘使用最後一個音節)<br>Ar（Argon）＝气＋亞→氬</p><h5 id="意譯"><a href="#意譯" class="headerlink" title="意譯"></a>意譯</h5><p>使用此元素的特性<br>例如：</p><p>溴：有臭味<br>氯：綠色<br>氫：質量最輕<br>氮：「淡」取沖淡空氣之意<br>氧：「養」取支持生命之意</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/elements-chinese-name.jpg&quot; alt=&quot;元素中文怎麼命名？&quot;&gt;&lt;/p&gt;&lt;p&gt;中文元素命名規則由 &lt;strong&gt;徐壽&lt;/strong&gt; (1818 ~ 1884) 制定&lt;/p&gt;&lt;h4 id=&quot;元素命名基本原則&quot;
+    
+    </summary>
+    
+    
+      <category term="元素名稱" scheme="https://elements.wilicw.tech/tags/%E5%85%83%E7%B4%A0%E5%90%8D%E7%A8%B1/"/>
+    
+      <category term="中文" scheme="https://elements.wilicw.tech/tags/%E4%B8%AD%E6%96%87/"/>
+    
+  </entry>
+  
+</feed>
