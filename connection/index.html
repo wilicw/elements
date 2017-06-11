@@ -4,27 +4,46 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+		<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
 	</head>
 	<body>
-
-		<!-- Header -->
+		<script type="text/javascript">
+			$(function() {
+				$('#nan').hide();
+				$('#but').click(function(){
+					var nam = $('#name').val();
+					var ema = $('#email').val();
+					var tex = $('#tex').val();
+					if(nam==""||ema==""||tex==""){
+						$('#nan').show();
+						return false;
+					}else{
+						return true;
+					}
+				});
+			});
+		</script>
 			<header id="header">
 				<h1>聯絡我們</h1>
-				<p>如果你對這個網站，這個APP有任何意見或指教，歡迎填寫下方表格</p>
+				<p><font color="#000000">對我們的文章有任何疑問嗎？還是你也想來投稿，發揮你的科學才能，那你來對地方了，歡迎寫下面表單，或寄 Email 至 william20021026+eles@gmail.com，告訴我們你的靈感、你的文章
+				。<br>或是你對這個網站，這個APP有任何意見或指教，歡迎填寫下方表格</font></p>
 			</header>
-
+			<div id="nan" class="alert alert-danger">還有欄位尚未填寫！！</div>
 			<form action="https://formspree.io/william20021026+eles@gmail.com"
 		      method="POST">
 		      <h2>您的姓名 / Your Name</h2>
-		      <input type="text" name="name">
+		      <input style="border-color:#000000;" id="name" type="text" name="name">
 					<br>
 		      <h2>您的 Email / Your Email</h2>
-		      <input type="email" name="_replyto">
+		      <input style="border-color:#000000;" id="email" type="email" name="_replyto">
 					<br>
 		    	<h2>給點意見吧!</h2>
-		    	<textarea name="tex"></textarea>
+		    	<textarea style="border-color:#000000;" id="tex" name="tex"></textarea>
 					<br>
-		    <input ion-button type="submit" value="Send">
+		    <input id="but" ion-button type="submit" value="Send">
 		  </form>
 
 			<script src="assets/js/main.js"></script>
