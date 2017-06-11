@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://elements.wilicw.tech/"/>
-  <updated>2017-05-28T03:18:44.128Z</updated>
+  <updated>2017-06-11T12:20:28.530Z</updated>
   <id>https://elements.wilicw.tech/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>化學藏書閣 Android APP 全新上線！</title>
+    <link href="https://elements.wilicw.tech/newapp1/"/>
+    <id>https://elements.wilicw.tech/newapp1/</id>
+    <published>2017-06-11T13:13:43.000Z</published>
+    <updated>2017-06-11T12:20:28.530Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/newapp1.jpg" alt="化學藏書閣 APP"></p><hr><h1 id="首頁，立即查看最新消息"><a href="#首頁，立即查看最新消息" class="headerlink" title="首頁，立即查看最新消息"></a>首頁，立即查看最新消息</h1><p><img src="../images/newapp1/1.png" alt="化學藏書閣 APP"></p><hr><h1 id="精選文章，每月更新"><a href="#精選文章，每月更新" class="headerlink" title="精選文章，每月更新"></a>精選文章，每月更新</h1><p><img src="../images/newapp1/2.png" alt="化學藏書閣 APP"></p><hr><h1 id="聯絡我們，一指搞定"><a href="#聯絡我們，一指搞定" class="headerlink" title="聯絡我們，一指搞定"></a>聯絡我們，一指搞定</h1><p><img src="../images/newapp1/3.png" alt="化學藏書閣 APP"></p><hr><h1 id="立即下載"><a href="#立即下載" class="headerlink" title="立即下載"></a>立即下載</h1><p><a href="https://play.google.com/store/apps/details?id=app.elements.wilicw&rdid=app.elements.wilicw" target="_blank" rel="external"><img src="../images/newapp1/4.png"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/newapp1.jpg&quot; alt=&quot;化學藏書閣 APP&quot;&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1 id=&quot;首頁，立即查看最新消息&quot;&gt;&lt;a href=&quot;#首頁，立即查看最新消息&quot; class=&quot;headerlink&quot; title=&quot;首頁，立即查看最新消
+    
+    </summary>
+    
+    
+      <category term="APP" scheme="https://elements.wilicw.tech/tags/APP/"/>
+    
+      <category term="新開發" scheme="https://elements.wilicw.tech/tags/%E6%96%B0%E9%96%8B%E7%99%BC/"/>
+    
+      <category term="Android" scheme="https://elements.wilicw.tech/tags/Android/"/>
+    
+  </entry>
   
   <entry>
     <title>速度越快，時間越慢</title>
