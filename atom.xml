@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://elements.wilicw.tech/"/>
-  <updated>2017-06-11T12:20:28.530Z</updated>
+  <updated>2017-06-13T11:54:49.845Z</updated>
   <id>https://elements.wilicw.tech/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>閃電，怎麼形成？</title>
+    <link href="https://elements.wilicw.tech/lightning/"/>
+    <id>https://elements.wilicw.tech/lightning/</id>
+    <published>2017-06-13T13:05:40.000Z</published>
+    <updated>2017-06-13T11:54:49.845Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="../images/lightning.jpg" alt="閃電"></p><blockquote><p>中央氣象局發布大雨特報，對流雲系發展旺盛，易有短時強降雨，今天大台北地區、宜蘭地區、北部山區及金門地區有局部大雨發生的機率，澎湖地區亦有局部較大雨勢，請注意雷擊及強陣風。(轉自2017年06月13日<a href="https://udn.com/news/story/7266/2521331" target="_blank" rel="external">聯合新聞網</a>)</p></blockquote><hr><h4 id="閃電跟雷聲的關係"><a href="#閃電跟雷聲的關係" class="headerlink" title="閃電跟雷聲的關係"></a>閃電跟雷聲的關係</h4><p><strong>閃電</strong> 空氣摩擦產生的高壓靜電，主要可分成 7 種：</p><ul><li><p>雲中放電</p></li><li><p>雲地之間放電</p></li><li><p>球狀閃電 (不討論)</p></li><li><p>珠狀閃電 (不討論)</p></li><li><p>枝狀閃電 (不討論)</p></li><li><p>正極閃電</p></li><li><p>超級閃電</p></li></ul><p>閃電落地時，所帶的能量，會將空氣快速膨脹，產生類似音爆的聲波，這就是 <strong>雷聲</strong></p><hr><h4 id="雲中放電"><a href="#雲中放電" class="headerlink" title="雲中放電"></a>雲中放電</h4><p>這種閃電是在雲層中的冰晶和水摩擦閃聲電位差，並在雲中放電，並不會落地，稱為<strong>雲中放電</strong></p><hr><h4 id="雲地之間放電"><a href="#雲地之間放電" class="headerlink" title="雲地之間放電"></a>雲地之間放電</h4><p>這種閃電就是一般常見的落地閃電，成因是雲層中跟地面的電位差，導致雲中的電荷快速打落地面，這種閃電又分成正極和負極</p><hr><h4 id="正極閃電和超級閃電"><a href="#正極閃電和超級閃電" class="headerlink" title="正極閃電和超級閃電"></a>正極閃電和超級閃電</h4><p><strong>正極閃電</strong> 的電荷與一般閃電相反，威力也非常強大，相對地也極少見。</p><p><strong>超級閃電</strong> 可為正極或負極，通常威力是一般閃電的100倍，落地會造成極強的破壞</p><hr><h4 id="產生閃電"><a href="#產生閃電" class="headerlink" title="產生閃電"></a>產生閃電</h4><p>除了下雨會產生閃電，當火山爆發，火山灰會互相摩擦，產生電位差造成閃電</p><hr><h4 id="計算閃電的距離-無聊人專用XD"><a href="#計算閃電的距離-無聊人專用XD" class="headerlink" title="計算閃電的距離 (無聊人專用XD)"></a>計算閃電的距離 (無聊人專用XD)</h4><p>光速遠大於聲音速度，所以光速可忽略不計算，當看到閃電，在心中默數秒數，當聽到雷聲時，停止計秒，計算方法為：</p><blockquote><p>秒數 x 340</p></blockquote><p>聲音速度會因環境改變，所以這個公式仍有誤差<br>計算出來單位為：公尺</p><p><del>所以可以推論，當秒數越少，聲音越大</del></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;../images/lightning.jpg&quot; alt=&quot;閃電&quot;&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;中央氣象局發布大雨特報，對流雲系發展旺盛，易有短時強降雨，今天大台北地區、宜蘭地區、北部山區及金門地區有局部大雨發生的機率，澎湖地區亦有局部較大雨勢
+    
+    </summary>
+    
+    
+      <category term="下雨" scheme="https://elements.wilicw.tech/tags/%E4%B8%8B%E9%9B%A8/"/>
+    
+      <category term="電" scheme="https://elements.wilicw.tech/tags/%E9%9B%BB/"/>
+    
+      <category term="雲" scheme="https://elements.wilicw.tech/tags/%E9%9B%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>化學藏書閣 Android APP 全新上線！</title>
